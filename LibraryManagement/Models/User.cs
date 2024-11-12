@@ -7,12 +7,12 @@ namespace LibraryManagement.Models
     {
         private int Id { get; }
 
-        private string name { get; } = null!;
+        private string Name { get; } = null!;
 
-        private string address { get; set; } = null!;
+        private string Address { get; set; } = null!;
 
-        private string phoneNumber { get; set; } = null!;
+        private string PhoneNumber { get; set; } = null!;
 
-        private string email { get; } = null!;
+        private string Email { get; } = null!;
     }
 }

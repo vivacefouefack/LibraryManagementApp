@@ -6,5 +6,12 @@ namespace LibraryManagement.Models
     {
         [Key]
         private int Id { get; }
+
+        private List<Loan> HistoryLoans { get; }
+
+        public Member():base()
+        {
+            this.HistoryLoans = new List<Loan>();
+        }
     }
 }
