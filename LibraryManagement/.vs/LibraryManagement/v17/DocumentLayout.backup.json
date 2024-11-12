@@ -1,7 +1,28 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\1a recherche\\apprentissage\\dot net\\LibraryManagementApp\\LibraryManagement\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0BFEFEA8-9B49-4124-8F8F-C8CF5BBA8985}|LibraryManagement.csproj|d:\\1a recherche\\apprentissage\\dot net\\librarymanagementapp\\librarymanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0BFEFEA8-9B49-4124-8F8F-C8CF5BBA8985}|LibraryManagement.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BFEFEA8-9B49-4124-8F8F-C8CF5BBA8985}|LibraryManagement.csproj|d:\\1a recherche\\apprentissage\\dot net\\librarymanagementapp\\librarymanagement\\librarymanagement.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{0BFEFEA8-9B49-4124-8F8F-C8CF5BBA8985}|LibraryManagement.csproj|solutionrelative:librarymanagement.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BFEFEA8-9B49-4124-8F8F-C8CF5BBA8985}|LibraryManagement.csproj|d:\\1a recherche\\apprentissage\\dot net\\librarymanagementapp\\librarymanagement\\librarymanagement.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{0BFEFEA8-9B49-4124-8F8F-C8CF5BBA8985}|LibraryManagement.csproj|solutionrelative:librarymanagement.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BFEFEA8-9B49-4124-8F8F-C8CF5BBA8985}|LibraryManagement.csproj|d:\\1a recherche\\apprentissage\\dot net\\librarymanagementapp\\librarymanagement\\librarymanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0BFEFEA8-9B49-4124-8F8F-C8CF5BBA8985}|LibraryManagement.csproj|solutionrelative:librarymanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BFEFEA8-9B49-4124-8F8F-C8CF5BBA8985}|LibraryManagement.csproj|d:\\1a recherche\\apprentissage\\dot net\\librarymanagementapp\\librarymanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BFEFEA8-9B49-4124-8F8F-C8CF5BBA8985}|LibraryManagement.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,8 +30,72 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\1a recherche\\apprentissage\\dot net\\LibraryManagementApp\\LibraryManagement\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\1a recherche\\apprentissage\\dot net\\LibraryManagementApp\\LibraryManagement\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-12T18:02:57.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LibraryManagement",
+              "DocumentMoniker": "D:\\1a recherche\\apprentissage\\dot net\\LibraryManagementApp\\LibraryManagement\\LibraryManagement.csproj",
+              "RelativeDocumentMoniker": "LibraryManagement.csproj",
+              "ToolTip": "D:\\1a recherche\\apprentissage\\dot net\\LibraryManagementApp\\LibraryManagement\\LibraryManagement.csproj",
+              "RelativeToolTip": "LibraryManagement.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-12T18:02:48.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LibraryManagement.http",
+              "DocumentMoniker": "D:\\1a recherche\\apprentissage\\dot net\\LibraryManagementApp\\LibraryManagement\\LibraryManagement.http",
+              "RelativeDocumentMoniker": "LibraryManagement.http",
+              "ToolTip": "D:\\1a recherche\\apprentissage\\dot net\\LibraryManagementApp\\LibraryManagement\\LibraryManagement.http",
+              "RelativeToolTip": "LibraryManagement.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-11-12T18:02:43.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LibraryManagement",
+              "DocumentMoniker": "D:\\1a recherche\\apprentissage\\dot net\\LibraryManagementApp\\LibraryManagement\\LibraryManagement.csproj",
+              "RelativeDocumentMoniker": "LibraryManagement.csproj",
+              "ToolTip": "D:\\1a recherche\\apprentissage\\dot net\\LibraryManagementApp\\LibraryManagement\\LibraryManagement.csproj",
+              "RelativeToolTip": "LibraryManagement.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-12T17:57:42.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\1a recherche\\apprentissage\\dot net\\LibraryManagementApp\\LibraryManagement\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\1a recherche\\apprentissage\\dot net\\LibraryManagementApp\\LibraryManagement\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T17:56:23.689Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
