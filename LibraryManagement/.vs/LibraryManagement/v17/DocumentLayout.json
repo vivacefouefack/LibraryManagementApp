@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\1a recherche\\apprentissage\\dot net\\LibraryManagementApp\\LibraryManagement\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0BFEFEA8-9B49-4124-8F8F-C8CF5BBA8985}|LibraryManagement.csproj|d:\\1a recherche\\apprentissage\\dot net\\librarymanagementapp\\librarymanagement\\librarymanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0BFEFEA8-9B49-4124-8F8F-C8CF5BBA8985}|LibraryManagement.csproj|solutionrelative:librarymanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0BFEFEA8-9B49-4124-8F8F-C8CF5BBA8985}|LibraryManagement.csproj|d:\\1a recherche\\apprentissage\\dot net\\librarymanagementapp\\librarymanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0BFEFEA8-9B49-4124-8F8F-C8CF5BBA8985}|LibraryManagement.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -25,10 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{0BFEFEA8-9B49-4124-8F8F-C8CF5BBA8985}|LibraryManagement.csproj|d:\\1a recherche\\apprentissage\\dot net\\librarymanagementapp\\librarymanagement\\dto\\memberdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0BFEFEA8-9B49-4124-8F8F-C8CF5BBA8985}|LibraryManagement.csproj|solutionrelative:dto\\memberdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0BFEFEA8-9B49-4124-8F8F-C8CF5BBA8985}|LibraryManagement.csproj|d:\\1a recherche\\apprentissage\\dot net\\librarymanagementapp\\librarymanagement\\librarymanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{0BFEFEA8-9B49-4124-8F8F-C8CF5BBA8985}|LibraryManagement.csproj|solutionrelative:librarymanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0BFEFEA8-9B49-4124-8F8F-C8CF5BBA8985}|LibraryManagement.csproj|d:\\1a recherche\\apprentissage\\dot net\\librarymanagementapp\\librarymanagement\\models\\loan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -66,46 +66,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 5,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "LibraryDbContext.cs",
-              "DocumentMoniker": "D:\\1a recherche\\apprentissage\\dot net\\LibraryManagementApp\\LibraryManagement\\Database\\LibraryDbContext.cs",
-              "RelativeDocumentMoniker": "Database\\LibraryDbContext.cs",
-              "ToolTip": "D:\\1a recherche\\apprentissage\\dot net\\LibraryManagementApp\\LibraryManagement\\Database\\LibraryDbContext.cs",
-              "RelativeToolTip": "Database\\LibraryDbContext.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAAABYAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T20:24:27.418Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MemberService.cs",
-              "DocumentMoniker": "D:\\1a recherche\\apprentissage\\dot net\\LibraryManagementApp\\LibraryManagement\\Services\\MemberService.cs",
-              "RelativeDocumentMoniker": "Services\\MemberService.cs",
-              "ToolTip": "D:\\1a recherche\\apprentissage\\dot net\\LibraryManagementApp\\LibraryManagement\\Services\\MemberService.cs",
-              "RelativeToolTip": "Services\\MemberService.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAoAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T20:00:21.9Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IMember.cs",
-              "DocumentMoniker": "D:\\1a recherche\\apprentissage\\dot net\\LibraryManagementApp\\LibraryManagement\\Interfaces\\IMember.cs",
-              "RelativeDocumentMoniker": "Interfaces\\IMember.cs",
-              "ToolTip": "D:\\1a recherche\\apprentissage\\dot net\\LibraryManagementApp\\LibraryManagement\\Interfaces\\IMember.cs",
-              "RelativeToolTip": "Interfaces\\IMember.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T19:37:27.431Z"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 7,
@@ -114,9 +76,10 @@
               "RelativeDocumentMoniker": "Models\\Loan.cs",
               "ToolTip": "D:\\1a recherche\\apprentissage\\dot net\\LibraryManagementApp\\LibraryManagement\\Models\\Loan.cs",
               "RelativeToolTip": "Models\\Loan.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAIBQwA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T19:05:18.004Z"
+              "WhenOpened": "2024-11-12T19:05:18.004Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -128,7 +91,8 @@
               "RelativeToolTip": "Models\\Manager.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T18:40:10.446Z"
+              "WhenOpened": "2024-11-12T18:40:10.446Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -140,11 +104,12 @@
               "RelativeToolTip": "Models\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T18:24:58.053Z"
+              "WhenOpened": "2024-11-12T18:24:58.053Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\1a recherche\\apprentissage\\dot net\\LibraryManagementApp\\LibraryManagement\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -164,17 +129,31 @@
               "ToolTip": "D:\\1a recherche\\apprentissage\\dot net\\LibraryManagementApp\\LibraryManagement\\LibraryManagement.csproj",
               "RelativeToolTip": "LibraryManagement.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-12T18:02:48.232Z"
+              "WhenOpened": "2024-11-12T18:02:48.232Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "LibraryManagement.csproj",
+              "DocumentMoniker": "D:\\1a recherche\\apprentissage\\dot net\\LibraryManagementApp\\LibraryManagement\\LibraryManagement.csproj",
+              "RelativeDocumentMoniker": "LibraryManagement.csproj",
+              "ToolTip": "D:\\1a recherche\\apprentissage\\dot net\\LibraryManagementApp\\LibraryManagement\\LibraryManagement.csproj*",
+              "RelativeToolTip": "LibraryManagement.csproj*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-12T17:57:42.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\1a recherche\\apprentissage\\dot net\\LibraryManagementApp\\LibraryManagement\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\1a recherche\\apprentissage\\dot net\\LibraryManagementApp\\LibraryManagement\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-12T17:56:23.689Z",
               "EditorCaption": ""
@@ -182,6 +161,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "IMember.cs",
+              "DocumentMoniker": "D:\\1a recherche\\apprentissage\\dot net\\LibraryManagementApp\\LibraryManagement\\Interfaces\\IMember.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IMember.cs",
+              "ToolTip": "D:\\1a recherche\\apprentissage\\dot net\\LibraryManagementApp\\LibraryManagement\\Interfaces\\IMember.cs",
+              "RelativeToolTip": "Interfaces\\IMember.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T19:37:27.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MemberService.cs",
+              "DocumentMoniker": "D:\\1a recherche\\apprentissage\\dot net\\LibraryManagementApp\\LibraryManagement\\Services\\MemberService.cs",
+              "RelativeDocumentMoniker": "Services\\MemberService.cs",
+              "ToolTip": "D:\\1a recherche\\apprentissage\\dot net\\LibraryManagementApp\\LibraryManagement\\Services\\MemberService.cs",
+              "RelativeToolTip": "Services\\MemberService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAxwAoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T20:00:21.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LibraryDbContext.cs",
+              "DocumentMoniker": "D:\\1a recherche\\apprentissage\\dot net\\LibraryManagementApp\\LibraryManagement\\Database\\LibraryDbContext.cs",
+              "RelativeDocumentMoniker": "Database\\LibraryDbContext.cs",
+              "ToolTip": "D:\\1a recherche\\apprentissage\\dot net\\LibraryManagementApp\\LibraryManagement\\Database\\LibraryDbContext.cs",
+              "RelativeToolTip": "Database\\LibraryDbContext.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAIBJwBYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T20:24:27.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "MemberDto.cs",
               "DocumentMoniker": "D:\\1a recherche\\apprentissage\\dot net\\LibraryManagementApp\\LibraryManagement\\Dto\\MemberDto.cs",
               "RelativeDocumentMoniker": "Dto\\MemberDto.cs",
@@ -189,7 +207,8 @@
               "RelativeToolTip": "Dto\\MemberDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T19:51:42.161Z"
+              "WhenOpened": "2024-11-12T19:51:42.161Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -201,19 +220,8 @@
               "RelativeToolTip": "LibraryManagement.http",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2024-11-12T18:02:43.506Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "LibraryManagement.csproj",
-              "DocumentMoniker": "D:\\1a recherche\\apprentissage\\dot net\\LibraryManagementApp\\LibraryManagement\\LibraryManagement.csproj",
-              "RelativeDocumentMoniker": "LibraryManagement.csproj",
-              "ToolTip": "D:\\1a recherche\\apprentissage\\dot net\\LibraryManagementApp\\LibraryManagement\\LibraryManagement.csproj",
-              "RelativeToolTip": "LibraryManagement.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-12T17:57:42.471Z"
+              "WhenOpened": "2024-11-12T18:02:43.506Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -225,7 +233,8 @@
               "RelativeToolTip": "Models\\Member.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T18:40:28.896Z"
+              "WhenOpened": "2024-11-12T18:40:28.896Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -235,9 +244,10 @@
               "RelativeDocumentMoniker": "Models\\Book.cs",
               "ToolTip": "D:\\1a recherche\\apprentissage\\dot net\\LibraryManagementApp\\LibraryManagement\\Models\\Book.cs",
               "RelativeToolTip": "Models\\Book.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAIBJwAYAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T18:52:38.67Z"
+              "WhenOpened": "2024-11-12T18:52:38.67Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
